@@ -237,3 +237,20 @@
   margin-bottom: 40px;
   align-content: center;
 }
+.contact-block-section {
+  padding: 40px 20px;
+  background-color: #fff;
+  text-align: center;
+}
+.contact-block-intro{
+    display: flex;
+    gap: 2rem;
+    margin: 40px;
+    align-content: center;
+}
+.footer {
+  padding: 20px;
+  background-color: #111;
+  color: #fff;
+  text-align: center;
+}
